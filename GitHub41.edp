@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="GitHub41"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{14874A14-B23B-4033-8063-EFBD859DBD6D}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14010.00"/>
+  </_Project>
+
+</Application>
